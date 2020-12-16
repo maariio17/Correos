@@ -1,0 +1,30 @@
+body{
+    margin: 5px;
+    width: 95%;
+    background-color: darksalmon;
+}
+
+table, td{
+    border: 1px solid black;
+}
+
+tr, td{
+    padding: 5px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 95%;
+}
+
+#remitente{
+    width: 15%;
+}
+
+tr{
+    background-color: bisque;
+}
+
+img{
+    margin: 10px;
+}

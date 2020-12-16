@@ -1,0 +1,7 @@
+{"listaCorreos":
+    [{"correos":[
+        {"remitente":"m.lopez.ruiz7@gmail.com", "asunto":"Esta tarde nos vamos a jugar al futbol"},
+        {"remitente":"m.lopez.ruiz17@gmail.com", "asunto":"Me tienes que pasar los deberes"},
+        {"remitente":"vitas@gmail.com", "asunto":"Tienes que ir hacerte una revision de la mano"}
+    ]}]
+}
